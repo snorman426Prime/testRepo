@@ -21,8 +21,6 @@ allprojects {
 
 //here are some comments
 
-//more comments to be unstaged
-
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
