@@ -25,6 +25,8 @@ allprojects {
 
 //some MORE comments for testing multiple file repo reversion
 
+//this comment line will be in the commit made around 3:30 pm
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
