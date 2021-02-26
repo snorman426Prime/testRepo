@@ -27,6 +27,8 @@ allprojects {
 
 //this comment line will be in the commit made around 3:30 pm
 
+//Test comments for Desktop GitHub
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
