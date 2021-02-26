@@ -23,8 +23,6 @@ allprojects {
 
 //more comments to be unstaged
 
-//some MORE comments for testing multiple file repo reversion
-
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
